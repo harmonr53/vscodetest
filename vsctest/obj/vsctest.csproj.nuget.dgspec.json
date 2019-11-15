@@ -38,6 +38,12 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "dependencies": {
+            "CsvHelper": {
+              "target": "Package",
+              "version": "(, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
