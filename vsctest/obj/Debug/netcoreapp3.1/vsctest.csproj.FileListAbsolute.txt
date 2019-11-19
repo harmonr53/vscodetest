@@ -1,0 +1,3 @@
+/Users/robertharmon/Desktop/vsctest/vsctest/obj/Debug/netcoreapp3.1/vsctest.csprojAssemblyReference.cache
+/Users/robertharmon/Desktop/vsctest/vsctest/obj/Debug/netcoreapp3.1/vsctest.AssemblyInfoInputs.cache
+/Users/robertharmon/Desktop/vsctest/vsctest/obj/Debug/netcoreapp3.1/vsctest.AssemblyInfo.cs

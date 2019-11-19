@@ -1,6 +1,10 @@
 using System;
 using CsvHelper;
 using CsvHelper.Configuration;
+using MongoDB.Bson;
+using MongoDB.Bson.IO;
+using MongoDB.Bson.Serialization;
+using MongoDB.Driver;
 
 namespace vsctest.Models
 {
@@ -15,6 +19,9 @@ namespace vsctest.Models
 
         public string CreditOrDebit {get;set;}
 
+        public Transaction(){}
+
+        [MongoDB.Bson.Serialization.Attributes.BsonConstructor]
         public Transaction(DateTime posted, float amount, string desc)
         {
             PostDate = posted;

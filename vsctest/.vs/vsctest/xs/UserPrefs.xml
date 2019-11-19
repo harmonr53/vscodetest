@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{286F2112-1B9F-4F1F-8D18-4643CDC9E8AF}|Default">
+  <MonoDevelop.Ide.ItemProperties.vsctest PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Models/Transaction.cs">
+    <Files>
+      <File FileName="Models/Transaction.cs" Line="23" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="vsctest" expanded="True">
+            <Node name="vsctest" expanded="True">
+              <Node name="Models" expanded="True">
+                <Node name="Transaction.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

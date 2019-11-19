@@ -17,7 +17,7 @@
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "/Users/robertharmon/.nuget/NuGet/NuGet.Config"
+          "/Users/robertharmon/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -41,7 +41,19 @@
           "dependencies": {
             "CsvHelper": {
               "target": "Package",
-              "version": "(, )"
+              "version": "[12.2.1, )"
+            },
+            "MongoDB.Bson": {
+              "target": "Package",
+              "version": "[2.9.3, )"
+            },
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[2.9.3, )"
+            },
+            "MongoDB.Driver.Core": {
+              "target": "Package",
+              "version": "[2.9.3, )"
             }
           },
           "imports": [
@@ -59,7 +71,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.100-preview2-014569/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.100-preview3-014645/RuntimeIdentifierGraph.json"
         }
       }
     }
